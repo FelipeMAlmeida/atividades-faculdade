@@ -17,3 +17,9 @@
 - Atividade continuada - Exercises for the class to task
 
 - Exercicios resolvidos - Exercises with follow-up
+
+- Atividade parcial um - First test
+
+- Atividade parcial dois - Second test
+
+- Prova oficial - Final test
