@@ -1,5 +1,4 @@
-AtividadeParcialUm/
-AtividadeParcialDois/
+appAtividade2ex2/
 *.pdf
 
 ##############################
@@ -86,3 +85,5 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+/ProvaOficial/oficialFelipeMorgadodeAlmeida/JavaApplication40/nbproject/private/
+/ProvaOficial/oficialFelipeMorgadodeAlmeida/appProva/nbproject/private/
